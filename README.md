@@ -1,6 +1,9 @@
 **Name:** Angel Priya 
+
 **Company:** CODETECH IT SOLUTIONS 
+
 **Domain:** C programming 
+
 **Duration:** June to July 2026
 
 **Scientific Calculator in C**
